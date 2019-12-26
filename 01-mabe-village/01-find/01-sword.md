@@ -16,8 +16,8 @@ The sword is in the beach.
 
 # Show a hint about finding it
 Go read a hint from the Village Library. Especially the book in the right top corner: "How to Handle Your Shiled Like a Pro!"
-![Village Library](../village_library.png)
+![Village Library](../village_library.jpeg)
 
 # Show how to find it
 Go to the Toronob Shores (from the library, head down) and push one of the rightmost Sea Urchins *with your shield*. You find the sword near the coastline.
-![Sword location](sword_location.png)
+![Sword location](sword_location.jpeg)

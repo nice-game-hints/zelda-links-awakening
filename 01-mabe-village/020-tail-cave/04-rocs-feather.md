@@ -3,7 +3,7 @@ title: Roc's Feather
 ---
 
 To get to the Roc's Feather you need to get to the staircase shown below:
-![Roc's Feather staircase](rocs-staircase.png)
+![Roc's Feather staircase](rocs-staircase.jpeg)
 The door is locked.
 
 # Show hint 1
