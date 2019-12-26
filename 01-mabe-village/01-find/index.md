@@ -1,0 +1,6 @@
+---
+title: How to find...
+keywords: sword, shield, yoshi statue
+---
+
+How to find...
