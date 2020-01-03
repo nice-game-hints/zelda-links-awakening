@@ -1,5 +1,5 @@
 ---
-title: How to get pas the Raccoon?
+title: How to get pass the Raccoon?
 ---
 
 The Raccoon will teleport you to another place.
