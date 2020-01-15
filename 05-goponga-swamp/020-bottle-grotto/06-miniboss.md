@@ -1,5 +1,5 @@
 ---
-title: Mini-boss: Hinox
+title: "Mini-boss: Hinox"
 ---
 
 The Hinox mini boss will only have two attacks. It either grabs Link and tosses him or throws a bomb.
